@@ -79,10 +79,7 @@ streamlit run interface.py
 
 ## Demo Video
 
-<video width="700" controls>
-  <source src="rag.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[🎥 Watch the demo](rag.mp4)
 
 
 
