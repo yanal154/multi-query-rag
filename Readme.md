@@ -60,7 +60,13 @@ This repository contains a **Multi-Query RAG (Retrieval-Augmented Generation) ch
 
 **Note**: Ensure that the PDF file is properly formatted and accessible to avoid any loading issues.
 
+## Running the Application
 
+To start the Streamlit UI, run:
+
+```bash
+streamlit run interface.py
+```
 ## File Structure
 
 - `chatbot.py`: Handles document loading, embedding, and retrieval logic.
