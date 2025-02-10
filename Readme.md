@@ -77,9 +77,9 @@ streamlit run interface.py
 
 ![Multi-Query RAG Workflow](multi_query_rag.png)
 
-## Demo Video
+## Demo
 
-[🎥 Watch the demo](rag.gif)
+![Demo GIF](images/demo.gif)
 
 
 
