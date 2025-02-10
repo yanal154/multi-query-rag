@@ -38,13 +38,28 @@ This repository contains a **Multi-Query RAG (Retrieval-Augmented Generation) ch
    OPENAI_API_KEY=your_openai_api_key
    ```
 
-## Running the Application
+## Usage
 
-To start the Streamlit UI, run:
+1. **Prepare Your PDF File**:
+   - Ensure your PDF file is accessible and note its file path.
 
-```bash
-streamlit run interface.py
-```
+2. **Load the PDF in `chatbot.py`**:
+   - Open the `chatbot.py` file.
+   - Locate the section where the PDF is loaded:
+     ```python
+     from langchain.document_loaders import PyPDFLoader
+
+     # Replace 'your_pdf_file.pdf' with the path to your PDF file
+     loader = PyPDFLoader("your_pdf_file.pdf")
+     data = loader.load()
+     ```
+   - Replace `"your_pdf_file.pdf"` with the path to your desired PDF file.
+
+3. **Run the Application**:
+   - Execute the application as described in the [Running the Application](#running-the-application) section.
+
+**Note**: Ensure that the PDF file is properly formatted and accessible to avoid any loading issues.
+
 
 ## File Structure
 
