@@ -15,7 +15,7 @@ This repository contains a **Multi-Query RAG (Retrieval-Augmented Generation) ch
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/yanal154/multi-query-rag.git
    cd your-repo
    ```
 
