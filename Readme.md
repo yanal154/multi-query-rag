@@ -79,7 +79,7 @@ streamlit run interface.py
 
 ## Demo
 
-![Demo GIF](images/demo.gif)
+![Demo GIF](rag.gif)
 
 
 
