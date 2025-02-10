@@ -14,7 +14,7 @@ load_dotenv()
 
 
 
-loader = PyPDFLoader("2405.04517v2.pdf")
+loader = PyPDFLoader("your_pdf_file.pdf")
 data = loader.load()
 
 
