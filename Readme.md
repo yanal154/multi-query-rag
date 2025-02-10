@@ -79,7 +79,7 @@ streamlit run interface.py
 
 ## Demo Video
 
-[🎥 Watch the demo](rag.mp4)
+[🎥 Watch the demo](rag.gif)
 
 
 
