@@ -16,7 +16,7 @@ This repository contains a **Multi-Query RAG (Retrieval-Augmented Generation) ch
 
    ```bash
    git clone https://github.com/yanal154/multi-query-rag.git
-   cd your-repo
+   cd multi-query-rag
    ```
 
 2. Create and activate a virtual environment:
